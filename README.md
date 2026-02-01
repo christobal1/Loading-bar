@@ -14,7 +14,7 @@ Usage:
 - And "Finished" as the message displayed when finished.
 - After that, by using 1 or 0 you can toggle the following in order:
     - displaying the percentage
-    - dispalying message 1
+    - displaying message 1
     - displaying message 2
     - displaying how long it took
 
