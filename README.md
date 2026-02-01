@@ -9,7 +9,7 @@ Usage:
 
 <code style="color : green">run(10.0, "Loading", "Finished", 1, 1, 1);</code>
 
-- For a four second loading bar
+- For a ten second loading bar
 - with "Loading" as the message displayed while loading
 - And "Finished" as the message displayed when finished.
 - The 1s after that toggle the following in order:
