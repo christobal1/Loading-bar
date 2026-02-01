@@ -1,0 +1,1 @@
+gcc -o exb main.c loadingBar.c
