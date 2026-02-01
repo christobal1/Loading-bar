@@ -2,7 +2,7 @@
 
 A program for loading bars in the terminal using text symbols.
 
-- It will take the given time and randomize the bar speed to show the illusion of progress.
+- It will take the given time and randomize the bar speed accordingly, to show the illusion of progress.
 - No requirements.
 
 Usage:
